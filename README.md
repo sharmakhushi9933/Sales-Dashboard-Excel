@@ -1,9 +1,9 @@
 # Sales-Dashboard-Excel
-Project Overview
+**Project Overview**
 
 This project focuses on analyzing coffee shop sales data using Advanced MS Excel. The goal is to transform raw sales data into meaningful insights through data cleaning, analysis, and an interactive dashboard that supports data-driven decision-making.
 
-Objectives
+**Objectives**
 
 -Clean and prepare raw sales data for analysis
 
@@ -13,7 +13,7 @@ Objectives
 
 -Build an interactive dashboard for easy insight exploration
 
-Tools & Techniques Used
+**Tools & Techniques Used**
 
 -Advanced Excel Functions (e.g Power Query Editor)
 
@@ -21,7 +21,7 @@ Tools & Techniques Used
 
 -Pivot Tables & Pivot Charts
 
-Calculated Fields & Measures
+**Calculated Fields & Measures**
 
 -KPI Creation & Tracking
 
@@ -29,7 +29,7 @@ Calculated Fields & Measures
 
 -Conditional Formatting for better data visualization
 
-Key Insights Generated
+**Key Insights Generated**
 
 -Identified top-performing products and peak sales periods
 
@@ -37,7 +37,7 @@ Key Insights Generated
 
 -Evaluated customer purchasing patterns and revenue drivers
 
-Dashboard Features
+**Dashboard Features**
 
 -Dynamic KPIs for quick performance tracking
 
@@ -45,7 +45,7 @@ Dashboard Features
 
 -Clean and intuitive visual layout for business users
 
-Learning Outcomes
+**Learning Outcomes**
 
 -Strengthened Excel-based data analytics and BI skills
 
